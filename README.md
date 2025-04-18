@@ -45,12 +45,10 @@ requests library
 
 Install with:
 
-bash
-Copy
-Edit
+```bash
 pip install requests
+```
+
 License
 MIT License. Use at your own risk. Not affiliated with Jellyseerr or TMDB.
 
-Copy
-Edit
