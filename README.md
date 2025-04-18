@@ -23,6 +23,7 @@ This Python script automatically logs into your [Jellyseerr](https://github.com/
 export JELLYSEERR_URL="http://localhost:5055"
 export JELLYSEERR_EMAIL="you@example.com"
 export JELLYSEERR_PASSWORD="yourpassword"
+```
 
 3. **Run the script**:
 
