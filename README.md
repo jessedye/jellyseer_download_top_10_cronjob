@@ -28,7 +28,7 @@ export JELLYSEERR_PASSWORD="yourpassword"
 
 ```bash
 python3 download_top_10.py
-
+```
 
 Notes
 The script uses the Jellyseerr /discover/trending endpoint.
@@ -37,7 +37,7 @@ Items that are already requested or downloaded may still be attempted depending 
 
 Jellyseerr must be running and accessible at the provided URL.
 
-🔧 Requirements
+Requirements
 Python 3.6+
 
 requests library
