@@ -8,6 +8,7 @@ This Python script automatically logs into your [Jellyseerr](https://github.com/
 
 - ✅ Authenticates with your Jellyseerr account
 - 🔥 Fetches top 10 trending movies and shows
+- 💬 Set your Language Preference
 - 📡 Sends media requests automatically via Jellyseerr API
 - 🔒 No TMDB API key required (uses Jellyseerr's own metadata)
 
