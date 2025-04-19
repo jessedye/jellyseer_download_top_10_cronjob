@@ -6,7 +6,7 @@ import time
 JELLYSEERR_URL = "http://localhost:5055"
 EMAIL = os.getenv("JELLYSEERR_EMAIL", "ENTER_YOUR_EMAIL_HERE")
 PASSWORD = os.getenv("JELLYSEERR_PASSWORD", "ENTER_YOUR_PASSWORD")
-LANGUAGE = "en"
+LANGUAGE = os.getenv("LANGUAGE", "en")
 
 # Session setup
 session = requests.Session()
